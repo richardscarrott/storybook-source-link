@@ -1,5 +1,5 @@
 {
-  "name": "storybook-source-link",
+  "name": "@riscarrott/storybook-source-link",
   "version": "2.0.4",
   "description": "Provides a link to the story's source in the toolbar",
   "keywords": [
